@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Mr.Lei;Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Android+Developer;Always+learning+new+things&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Mr.Lei;Welcome+to+my+GitHub+Profile!;Code+is+my+universal+language;From+software+to+hardware+%F0%9F%94%A7;Always+building+something+cool&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22">
 </h1>
 
 <p align="center">
@@ -17,10 +17,12 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I love building **practical tools** that solve real-world problems
-- 🌱 Currently focused on **Android Development** & **GPS/GNSS technologies**
+- 💻 **Code is my universal language** — I write whatever code gets the job done
+- 🌱 Currently hacking on **Android**, **embedded systems**, **networking**, **automation scripts**, and anything that piques my curiosity
+- 🔧 **Hardware & software dual-wielder** — from PCB soldering to cloud architecture, I enjoy the full stack
 - 💡 Recently built **[GNSS-Link](https://github.com/zhaokelei/gnss-link)** — a LAN/Bluetooth GPS sharing & mock location injection app
-- 🛠️ Experienced in **Kotlin, Java, Python, Go, PHP, Shell**
-- 📱 Passionate about **mobile apps**, **networking**, and **embedded systems**
+- 🛠️ Experienced in **Kotlin, Java, Python, Go, PHP, Shell, C/C++**
+- ⚡ If it can be programmed, I'll program it. If it can't, I'll find a way.
 
 ---
 
@@ -33,6 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++">
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
 </p>
 
@@ -40,6 +43,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
