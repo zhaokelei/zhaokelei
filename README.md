@@ -3,13 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/zhaokelei">
-    <img src="https://img.shields.io/github/followers/zhaokelei?label=Followers&style=social" alt="GitHub Followers">
-  </a>
   <a href="https://github.com/zhaokelei?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-44-blue?style=flat&logo=github" alt="Repositories">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zhaokelei&color=36BCF7&style=flat" alt="Profile Views">
+  <a href="https://github.com/zhaokelei/gnss-link">
+    <img src="https://img.shields.io/badge/Featured-GNSS--Link-green?style=flat&logo=android" alt="GNSS-Link">
+  </a>
+  <a href="https://github.com/zhaokelei?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-0-orange?style=flat&logo=github" alt="Followers">
+  </a>
 </p>
 
 ---
